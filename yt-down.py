@@ -27,12 +27,6 @@ def main():
     button = customtkinter.CTkButton(master=root, width=36, height=36, text="Baixar Vídeo", command=link_video)
     button.pack(padx=10, pady=10)
 
-    pb = customtkinter.CTkProgressBar(
-        root,
-        orientation='horizontal',
-        mode='determinate',
-    )
-
     root.mainloop()
     
 if __name__ == '__main__':

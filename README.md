@@ -1,14 +1,14 @@
-# Youtube Video Downloader with GUI
+# Youtube Video Downloader com Interface
 
-## Installing
+## Instalação
 
-Remenber to install the requeriments.
+Lembre-se de instalar os requerimentos.
 
 ```
 pip install -r requeriments.txt
 ```
 
-## Usage <a name = "usage"></a>
+## Como usar <a name = "usage"></a>
 
 ```
 python3 yt-down.py
